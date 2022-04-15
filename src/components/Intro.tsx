@@ -13,7 +13,7 @@ const Intro: NextPage = () => {
             color='white'
             // height={['40vh', '25vh']}
             px='130px'
-            py='115px'
+            py='130px'
         >
             <Heading as='h2' margin={0}>
                 Our Mission
